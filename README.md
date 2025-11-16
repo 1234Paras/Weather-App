@@ -4,6 +4,8 @@
 A simple and clean Weather Forecast Android App built using Kotlin, Retrofit, and OpenWeather API.
 This project demonstrates my skills in Android development, API integration, UI design, and clean architecture.
 
+**ABOVE WE CAN GIVE THE APK FILE MY ANDROID APPLICATION SO DOWNLOAD IT AND CHECK IT!**
+
 🚀 Features :-
 
 🔍 Search weather by city name
